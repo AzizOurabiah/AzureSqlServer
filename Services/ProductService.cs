@@ -5,8 +5,8 @@ namespace WepAppVisualStudio.Services
 {
     public class ProductService
     {
-        private static string db_source = "firstserveraziz.database.windows.net";
-        private static string db_user = "sqlserver";
+        private static string db_source = "azizsqlserver.database.windows.net";
+        private static string db_user = "azizsqlserver";
         private static string db_password = "Admin.123456789";
         private static string db_database = "sqlserver";
 
